@@ -23,3 +23,11 @@ The editor platform used to develop this project is Visual Studio Code (VS Code)
 Several tools and technologies are involved in completing this task. The primary tools include HTML for structuring the content of the webpage, CSS for designing and styling the layout, and a web browser for testing and displaying the website. These tools work together to create a fully functional and visually appealing portfolio website. Responsive design techniques and proper webpage organization are also applied to improve user experience and accessibility.
 
 The personal portfolio webpage developed in this task has many practical applications in real-world scenarios. It can be used by students, web developers, designers, freelancers, and software engineers to present their work, projects, and technical skills in a professional way. A portfolio website serves as an online profile where individuals can display their achievements, experience, and creative abilities. It is particularly useful when applying for internships, jobs, or freelance opportunities because it allows recruiters and employers to quickly review a candidate’s work. Additionally, the portfolio can be shared through professional platforms such as LinkedIn or included in resumes and job applications. Overall, developing a personal portfolio webpage helps individuals establish a strong online presence while demonstrating their knowledge of web development technologies and design principles.
+
+*OUTPUT* :
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f53ccbbe-0b2e-4e69-8a0d-76652052c1f4" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed6003d4-449d-4cd6-a713-aab2f10c0cbb" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/df6870ab-d931-4c3e-a505-19949554977f" />
